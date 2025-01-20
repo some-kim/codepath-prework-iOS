@@ -1,5 +1,5 @@
 # codepath-preworkCYB
-Prework fornCodePath Into Cybersecurity Course
+Prework for CodePath Intro to Cybersecurity Course
 
 
 https://imgur.com/a/9Q3yp5P.gif
