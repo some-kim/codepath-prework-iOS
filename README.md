@@ -17,21 +17,21 @@ https://imgur.com/a/9Q3yp5P.gif
 
 
 2. Polytopia
-  -The interface to create or join a game is straight forward and self explaintory
-  -There's like a flow/sequence on how to custimize different parts of you game and diferent catergoies
-  -I could see ways to over comiliacne this prcess or make it sless streamlined, I like the way they apporached their layout
+  - The interface to create or join a game is straight forward and self explaintory
+  - There's like a flow/sequence on how to custimize different parts of you game and diferent catergoies
+  - I could see ways to over comiliacne this prcess or make it sless streamlined, I like the way they apporached their layout
 
 3. Evernote
--Easy to create and organize quick notes
--Sadly started limiting some features in the free version but there's still a lot I like
--Can log into notes by signing across different devices, syncs changes
+- Easy to create and organize quick notes
+- Sadly started limiting some features in the free version but there's still a lot I like
+- Can log into notes by signing across different devices, syncs changes
 
 4. Noteful
--Great for creating and organizing notes for class 
--Prefer this more than GoodNotes because of how files are backed up and saved 
--GoodNotes is iCLoud based and if ou don't have enough storgae you loose notes. Noteful allows you to back up to your Google Drive and other storage accountds
--Easy to create edit and export notes
--Alot of edit and writing features
+- Great for creating and organizing notes for class 
+- Prefer this more than GoodNotes because of how files are backed up and saved 
+- GoodNotes is iCLoud based and if ou don't have enough storgae you loose notes. Noteful allows you to back up to your Google Drive and other storage accountds
+- Easy to create edit and export notes
+- Alot of edit and writing features
   
 5. Libby
 - Seemlessly connects to your different library cards
